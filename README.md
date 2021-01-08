@@ -1,4 +1,4 @@
-### Hi I'm Tym of projectym
+### Hi I'm Tym of projecTym
 
 ## I am a Web Developer, Mathematician, and Mucisian!
 - I have a B.S in Math, with a minor in C.S
@@ -7,8 +7,8 @@
 
 ### Here's some of my work:
 
- - Portfolio deployed git gh-pages(under construction) - [React Portfolio][]
- - My first website ( built with Wordpress) - [projecTym.net][website]
+ - Portfolio deployed git gh-pages ( under construction ) - [React Portfolio][]
+ - My first website ( built with Wordpress ) - [projecTym.net][website]
  - Latest React project - [Search Songs App][searchSongs]
 
 <br /> 
