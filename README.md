@@ -7,7 +7,7 @@
 
 ### Here's some of my work:
 
- - [React psortfolio][website]
+ - Portfolio deployed git gh-pages(under construction) [React Portfolio][website]
  - My first website ( built with Wordpress) - [Here][projectym]
  - Latest React project [Search Songs][searchSongs]
 
