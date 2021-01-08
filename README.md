@@ -1,4 +1,4 @@
-### Hi I'm Tym of projecTym 👋
+### Hi I'm Tym of projecTym 👋🏾
 
 ## I am a Web Developer, Mathematician, and Mucisian!
 - I have a B.S in Math, with a minor in C.S
