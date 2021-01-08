@@ -1,15 +1,15 @@
-### Hi I'm Tym of projecTym
+### Hi I'm Tym of projecTym 👋
 
 ## I am a Web Developer, Mathematician, and Mucisian!
 - I have a B.S in Math, with a minor in C.S
 - I'm currently working on my ReactJS skills
-- 2021 Goals: Create, and contribute to, high quality applications
+- 2021 Goals: Master React, contribute to and create high quality applications, enjoy life :)
 
-### Here's some of my work:
+## Here's some of my work:
 
- - Portfolio deployed git gh-pages ( under construction ) - [React Portfolio][]
- - My first website ( built with Wordpress ) - [projecTym.net][website]
- - Latest React project - [Search Songs App][searchSongs]
+ - Latest deployed React project - [Search Songs App][searchSongs]
+ - Portfolio deployed using gh-pages (under construction) - [React Portfolio][]
+ - My first website (built with Wordpress) - [projecTym.net][website]
 
 <br /> 
 
