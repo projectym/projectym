@@ -8,8 +8,7 @@
 ## Here's some of my work:
 
  - Latest deployed React project - [Search Songs App][searchSongs]
- - Portfolio deployed using gh-pages (under construction) - [React Portfolio][]
- - My first website (built with Wordpress) - [projecTym.net][website]
+ - Here is my portfolio! - [projecTym.net][website]
 
 <br /> 
 
