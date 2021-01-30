@@ -7,8 +7,10 @@
 
 ## Here's some of my work:
 
- - Latest deployed React project - [Search Songs App][searchSongs]
  - Here is my portfolio! - [projecTym.net][website]
+ - Search Songs React project - [Search Songs App][searchSongs]
+ - Redux To Do app - [Redux To Do][reduxToDo]
+ - Statistics Calculator - [Stat Calc][statCalc]
 
 <br /> 
 
@@ -33,3 +35,5 @@
 
 [website]: https://projectym.net
 [searchSongs]: https://projectym.github.io/Search-Songs-App/
+[reduxToDo]: https://projectym.github.io/Redux-To-Do/
+[statCalc]: https://projectym.net/statistics-summary-calculator/
