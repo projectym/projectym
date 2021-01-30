@@ -1,6 +1,6 @@
 ### Hi I'm Tym of projecTym 👋🏾
 
-## I am a Web Developer, Mathematician, and Mucisian!
+## I am a Web Developer, Mathematician, and Musician!
 - I have a B.S in Math, with a minor in C.S
 - I'm currently working on my ReactJS skills
 - 2021 Goals: Master React, contribute to and create high quality applications, enjoy life 🙃
